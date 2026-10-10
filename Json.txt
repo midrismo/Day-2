@@ -1,0 +1,67 @@
+{
+"framework": "SCALE",
+"project_title": "Kumbakonam: Life Along the Cauvery",
+"task": "Generate a culturally authentic, cinematic 60-second video portraying the lives, traditions, livelihoods, festivals, and heritage of people living in the Cauvery River basin around Kumbakonam, Tamil Nadu, India.",
+"video_specifications": {
+"duration_seconds": 60,
+"aspect_ratio": "16:9",
+"resolution": "4K preferred",
+"frame_rate": "24 fps",
+"language": "Tamil",
+"structure": "Six consecutive scenes of approximately 10 seconds each",
+"continuity": "Maintain consistent regional identity, natural lighting progression, realistic people, architecture, clothing, and geography across all sequences."
+},
+"SCALE": {
+"Subject": {
+"primary_subject": "Kumbakonam residents and communities living along the Cauvery River basin",
+"secondary_subjects": [
+"Traditional farmers",
+"Fishermen and riverbank workers",
+"Women creating kolam",
+"Elders and children",
+"Temple visitors",
+"Families celebrating traditional festivals"
+],
+"cultural_identity": "Authentic Tamil cultural heritage of the Kumbakonam and Cauvery delta region",
+"wardrobe": "Realistic traditional cotton sarees, veshti, shirts, and everyday rural clothing appropriate to each scene"
+},
+"Camera_angle": {
+"opening": "Wide aerial establishing shot of the river and surrounding countryside",
+"middle": "Eye-level documentary shots, medium shots, close-ups, and smooth tracking movements",
+"ending": "Slowly rising wide shot revealing the river landscape at sunset",
+"camera_motion": "Smooth, cinematic, natural, and physically plausible"
+},
+"Action": {
+"sequence_1": "Reveal sunrise over the Cauvery and villagers beginning their daily routines",
+"sequence_2": "Show farmers working in rice fields and maintaining their agricultural traditions",
+"sequence_3": "Show kolam drawing, traditional homes, family life, and community interactions",
+"sequence_4": "Show temple architecture, devotees, and cultural heritage",
+"sequence_5": "Show Pongal preparations, traditional food, music, and family celebrations",
+"sequence_6": "Show villagers gathering beside the river and conclude with a peaceful sunset"
+},
+"Location": {
+"primary_location": "Kumbakonam and the surrounding Cauvery River basin, Tamil Nadu, India",
+"landscape": "River channels, green paddy fields, coconut palms, traditional streets, and historic temples",
+"authenticity": "Use geographically appropriate scenery and architectural details; avoid presenting unrelated South Indian locations as Kumbakonam."
+},
+"Aesthetic": {
+"visual_style": "Photorealistic cinematic documentary",
+"colour_palette": "Natural greens, earthy browns, warm sunrise gold, traditional textile colours, and sunset amber",
+"lighting": "Natural sunrise, soft daylight, and golden-hour sunset",
+"sound_design": "Natural river sounds, birdsong, footsteps, agricultural ambience, temple bells, and subtle traditional Tamil instrumental music",
+"emotional_tone": "Warm, peaceful, culturally proud, nostalgic, and human",
+"editing": "Six connected scenes with smooth transitions and consistent colour grading",
+"avoid": [
+"Artificial-looking faces",
+"Unrealistic clothing or architecture",
+"Exaggerated poverty stereotypes",
+"Fantasy landscapes",
+"Distorted hands or faces",
+"Unrelated modern skylines",
+"Unnecessary on-screen text",
+"Stereotypical or culturally inaccurate portrayals"
+]
+}
+},
+"final_message": "The Cauvery is more than a river; it is a source of life, culture, livelihood, and collective memory for the people of Kumbakonam."
+}
